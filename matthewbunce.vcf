@@ -1,0 +1,22 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Bunce;Matthew;;;
+FN:Matthew Bunce
+ORG:Vorcis
+ADR;TYPE=WORK:Al Saaha Offices B, 404, Souk Al Bahar,
+Burj Khalifa District, Dubai, UAE
+TITLE:Principal Consultant
+TEL;TYPE=CELL:+971526288880
+TEL;TYPE=WORK:
+TEL;TYPE=HOME:
+TEL;TYPE=MSG:
+EMAIL;TYPE=WORK:matthew.bunce@vorcis.com
+URL;TYPE=Digital Business Card:https://vorc.is/matthewvcard
+URL:http://www.vorcis.com
+URL;TYPE=Website:http://www.vorcis.com
+URL;TYPE=Calendar:https://vorc.is/bookwithmatthew
+URL;TYPE=LinkedIn:https://linkedin.com/in/matthewbunce/
+KEY;TYPE=PGP;ENCODING=b:
+NOTE:People centric digital transformation and consultancy
+UID:EnBizCard-100666621
+END:VCARD
